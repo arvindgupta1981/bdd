@@ -17,24 +17,68 @@ Cucumber tool is based on the Behavior Driven Development framework that acts as
 Cucumber also benefits the client to understand the application code as it uses Gherkin language which is in Plain Text. Anyone in the organization can understand the behavior of the software. The syntax's of Gherkin is in simple text which is readable and understandable.
 
 Prerequisite for using Cucumber with Selenium.
+
 Selenium jar files: Selenium-server-standalone http://www.seleniumhq.org/download/
+
 Jar files For Cucumber : http://mvnrepository.com/search?q=Cucumber
+
 •	Cucumber-core
+
 •	Cucumber-html
+
 •	cobertura code coverage
+
 •	Cucumber-java
+
 •	Cucumber-junit
+
 •	Cucumber-jvm-deps
+
 •	Cucumber-reporting
+
 •	Hemcrest-core
+
 •	Gherkin
+
 •	Junit
 
+
 Automation Testing Using Cucumber with Selenium.
+
 •	Scenario 1: Print text in the console.
+
 •	Scenario 2: Enter login Credential and reset the value.
+
 •	Scenario 3: Enter login Credential on Guru99 & reset the value. Do this for 3 sets of data.
 
 
+Tool for Gherkin:- 
 
+Tidy Gherkin chrome plugin - able to generate java code  
+
+Hiptest:- 
+
+Account: pc1204a@gmail.com
+
+Why:- 
+
+Dashboard for Test cases Fail/Pass
+
+Test Case Management Software 
+
+Test case automation
+
+Easy-to-use editor
+
+Test Refactoring
+
+Step auto-suggestions
+
+Agile Testing - BDD driven development, test by Product owner  or stackholder
+
+Remember Metrics of test cases
+
+Manage all scenarios in tree view
+
+Integration with Jira, Slack and Jenkins
 
